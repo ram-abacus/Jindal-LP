@@ -1,99 +1,128 @@
-[00:00:09.769] Server  LOG      ✓ Ready in 8.4s
-[00:00:40.091] Server  LOG      ○ Compiling /_not-found/page ...
-[00:00:41.557] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:41.880] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:41.880] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:41.880] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763359966427}
-[00:00:49.524] Server  LOG      ○ Compiling / ...
-[00:00:51.724] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:52.632] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:52.633] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:52.633] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:52.633] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763359977174}
-[00:01:45.338] Server  LOG      ✓ Compiled in 53.4s
-[00:01:57.970] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:00.144] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:00.144] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:00.144] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360044667}
-[00:03:21.629] Server  LOG      ✓ Compiled in 83.6s
-[00:03:23.141] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.420] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:26.672] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:26.672] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:26.672] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360131206}
-[00:04:37.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:40.721] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.721] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.721] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.721] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.722] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.722] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.722] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.722] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:04:40.948] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:04:40.948] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:04:40.948] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360205441}
-[00:05:23.657] Browser ERROR   uncaughtError: ReferenceError: ContactForm is not defined
-[00:05:27.134] Server  LOG      ✓ Compiled in 49.5s
-[00:05:28.944] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:05:34.307] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360254845}
-[00:05:34.531] Server  LOG      ✓ Compiled in 7.4s
-[00:05:35.889] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:38.500] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:05:38.501] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:05:38.501] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360262992}
-[00:07:18.306] Server  LOG      ✓ Compiled in 102.3s
-[00:07:20.134] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.376] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.377] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.377] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:07:23.927] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:07:23.927] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:07:23.927] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360368392}
-[00:08:41.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:44.342] Browser WARN    Image with src "http://localhost:3001/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.342] Browser WARN    Image with src "http://localhost:3001/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.342] Browser WARN    Image with src "http://localhost:3001/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.343] Browser WARN    Image with src "http://localhost:3001/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.343] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.343] Browser WARN    Image with src "http://localhost:3001/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.343] Browser WARN    Image with src "http://localhost:3001/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.343] Browser WARN    Image with src "http://localhost:3001/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:44.604] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:08:44.605] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:08:44.605] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763360449109}
+[00:00:04.043] Server  LOG      ✓ Ready in 3.2s
+[00:00:07.082] Server  LOG      ○ Compiling /_not-found/page ...
+[00:00:14.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.581] Browser WARN    Image with src "http://localhost:3000/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.813] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:15.813] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:15.813] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763463803964}
+[00:00:16.997] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.123] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:17.123] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:00:17.123] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763463805392}
+[00:06:03.892] Server  LOG      ✓ Compiled in 346.6s
+[00:06:08.545] Server  LOG      ✓ Compiled in 4.8s
+[00:06:15.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:15.516] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:15.516] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:06:15.516] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464163787}
+[00:07:33.182] Server  LOG      ✓ Compiled in 61.6s
+[00:07:34.174] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:34.512] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:07:34.513] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:07:34.513] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464242775}
+[00:08:07.572] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:29.725] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:30.732] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:09:30.732] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:09:30.732] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464358016}
+[00:11:16.326] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:16.527] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:16.527] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:11:16.527] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464464800}
+[00:13:05.581] Browser ERROR   Can't perform a React state update on a component that hasn't mounted yet. This indicates that you have a side-effect in your render function that asynchronously tries to update the component. Move this work to useEffect instead.
+[00:13:55.137] Server  ERROR    ⨯ ./app/layout.tsx:45:54
+Parsing ecmascript source code failed
+  43 |           <script>
+  44 |             window.dataLayer = window.dataLayer || [];
+> 45 |             function gtag(){dataLayer.push(arguments);}
+     |                                                      ^
+  46 |             gtag('js', new Date());
+  47 |
+  48 |             gtag('config', 'AW-17732096688');
+
+Expected '</', got ';'
+
+
+[00:13:58.147] Server  LOG      ○ Compiling /_error ...
+[00:14:13.745] Browser ERROR   uncaughtError: Error: ./app/layout.tsx:45:54
+Parsing ecmascript source code failed
+  43 |           <script>
+  44 |             window.dataLayer = window.dataLayer || [];
+> 45 |             function gtag(){dataLayer.push(arguments);}
+     |                                                      ^
+  46 |             gtag('js', new Date());
+  47 |
+  48 |             gtag('config', 'AW-17732096688');
+
+Expected '</', got ';'
+
+
+[00:14:14.087] Browser ERROR   ./app/layout.tsx:45:54
+Parsing ecmascript source code failed
+  43 |           <script>
+  44 |             window.dataLayer = window.dataLayer || [];
+> 45 |             function gtag(){dataLayer.push(arguments);}
+     |                                                      ^
+  46 |             gtag('js', new Date());
+  47 |
+  48 |             gtag('config', 'AW-17732096688');
+
+Expected '</', got ';'
+[00:14:14.087] Browser ERROR   ./app/layout.tsx:45:54
+Parsing ecmascript source code failed
+  43 |           <script>
+  44 |             window.dataLayer = window.dataLayer || [];
+> 45 |             function gtag(){dataLayer.push(arguments);}
+     |                                                      ^
+  46 |             gtag('js', new Date());
+  47 |
+  48 |             gtag('config', 'AW-17732096688');
+
+Expected '</', got ';'
+[00:14:14.087] Browser ERROR   ./app/layout.tsx:45:54
+Parsing ecmascript source code failed
+  43 |           <script>
+  44 |             window.dataLayer = window.dataLayer || [];
+> 45 |             function gtag(){dataLayer.push(arguments);}
+     |                                                      ^
+  46 |             gtag('js', new Date());
+  47 |
+  48 |             gtag('config', 'AW-17732096688');
+
+Expected '</', got ';'
+[00:14:59.039] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:15:02.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:03.467] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:03.467] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/thank-you/","route":"/thank-you/"}
+[00:15:03.467] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/thank-you/ color: rgb(120, 120, 120) color: inherit {"dp":"/thank-you/","o":"http://localhost:3000/thank-you/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464691738}
+[00:15:27.710] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.220] Browser WARN    Image with src "http://localhost:3000/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:30.261] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:30.261] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:15:30.261] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464718507}
+[00:17:11.302] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/abb-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/BHEL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/Coca-Cola-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/HAL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hero-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/Hindlaco-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/HUL-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser WARN    Image with src "http://localhost:3000/avc-systems/HYATT-logo.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:12.756] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:12.756] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:17:12.756] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763464820921}
